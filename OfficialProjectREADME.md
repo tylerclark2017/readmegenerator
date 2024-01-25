@@ -8,24 +8,24 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributions](#Contributions)
+- [Contributions](#contributions)
 - [Testing](#testing)
 - [Questions](#questions)
 
 ## Description
-This project was meant to teach bootcamp students how to use both Node and JavaScript to create a professional README.md file generator for a user.
+This project was meant to teach us how to use both JavaScript and Node to create a professional README.md file generator for users.
 
 ## Installation
-Clone the Github repo to your local computer
+Simply clone the Github repository to your local computer and then run node in your command line or terminal 
 
 ## Usage
-For a user to be able to create a dynamically generated README.md file using JavaScript and Node.
+This is intended to create a professional README.md file for users.
 
 ## Contributions
 There are no contribution guidelines for this application.
 
 ## Testing
-Once you've cloned the Github repo, test using Node.
+Run the application in Node to test, but I have already tested it.
 
 ## License
 ## License
@@ -39,7 +39,4 @@ tylerc111@gmail.com
 
 ### User GitHub Profile
 tylerclark2017
-
-## Video Links
-Google Drive: https://drive.google.com/file/d/1mPU1lVrqlrYFr4ykpnto7Tyki62MOB4U/view
 

@@ -53,7 +53,7 @@ ${renderLicenseLink()}
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributions](#Contributions)
+- [Contributions](#contributions)
 - [Testing](#testing)
 - [Questions](#questions)
 
