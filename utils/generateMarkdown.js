@@ -50,6 +50,12 @@ ${renderLicenseBadge(data.license)}
   
 ## Table of Contents
 ${renderLicenseLink()}
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributions](#Contributions)
+- [Testing](#testing)
+- [Questions](#questions)
 
 ## Description
 ${data.description}
